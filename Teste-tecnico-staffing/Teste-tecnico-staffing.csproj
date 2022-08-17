@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Teste_tecnico_staffing</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Handlers\BaseCategoryHandler.cs~RF2c52a05.TMP" />
+    <None Remove="Handlers\BaseCategoryHandler.cs~RF2c5f4c7.TMP" />
+    <None Remove="Program.cs~RF8bc55e46.TMP" />
+  </ItemGroup>
+
+</Project>
